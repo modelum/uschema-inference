@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hbase2dbschema
+Bundle-SymbolicName: es.um.unosql.hbase2unosql
+Bundle-Version: 1.0.0.qualifier
+Export-Package: es.um.unosql.hbase2unosql.main
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: es.um.nosql.s13e.hbase2dbschema
+Require-Bundle: es.um.unosql.utils,
+ es.um.unosql

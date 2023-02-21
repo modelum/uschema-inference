@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Neo4j2dbschema
+Bundle-SymbolicName: es.um.unosql.neo4j2unosql
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: es.um.unosql,
+ es.um.unosql.utils
+Export-Package: es.um.unosql.neo4j2unosql,
+ es.um.unosql.neo4j2unosql.main
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: es.um.nosql.s13e.neo4j2dbschema

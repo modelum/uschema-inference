@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mongodb2unosql
+Bundle-SymbolicName: es.um.unosql.mongodb2unosql
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: es.um.unosql.mongodb2unosql
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.emf.ecore;bundle-version="2.19.0",
+ org.eclipse.emf.ecore.xmi;bundle-version="2.16.0",
+ es.um.unosql;bundle-version="1.0.0",
+ es.um.unosql.utils;bundle-version="1.0.0",
+ es.um.unosql.doc2unosql;bundle-version="1.0.0"

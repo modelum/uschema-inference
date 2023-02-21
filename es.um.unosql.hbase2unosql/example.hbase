@@ -1,0 +1,25 @@
+create 'people', 'user', 'address', 'watchedMovies', 'favoriteMovies'
+
+put 'people', 156, 'user:name', 'Allison'
+put 'people', 156, 'user:email', 'allison@gmail.com'
+put 'people', 156, 'address:city', 'Aylesbury'
+put 'people', 156, 'address:number', 8
+put 'people', '156', 'address:street', 'Lott Meadow'
+put 'people', '156', 'watchedMovies:202.title', 'The Matrix'
+put 'people', '156', 'watchedMovies:202.year', 1999
+put 'people', '156', 'watchedMovies:202.genre', 'Science Fiction'
+
+put 'people', 178, 'user:name', 'Brian'
+put 'people', 178, 'user:surname', 'Caldwell'
+put 'people', 178, 'user:email', 'brian_caldwell@gmail.com'
+put 'people', 178, 'address:city', 'Aylesbury'
+put 'people', 178, 'address:number', 6
+put 'people', '178', 'address:street', 'Fairfax Cres'
+put 'people', '178', 'address:postcode', '30760'
+put 'people', '178', 'favoriteMovies:202.title', 'The Matrix'
+put 'people', '178', 'favoriteMovies:202.year', 1999
+put 'people', '178', 'favoriteMovies:202.genre', 'Science Fiction'
+
+
+
+
