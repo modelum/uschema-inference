@@ -4,6 +4,11 @@ This repository contains the projects involved in extracting the schema of a run
 
 The inference processes depend on the U-Schema core projects that are found in the corresponding [U-Schema repository](https://github.com/modelum/uschema).
 
+```bash
+$ git clone https://github.com/modelum/uschema
+$ git clone https://github.com/modelum/uschema-inference
+```
+
 The repository contains the following projects:
 
 * `es.um.unosql.cassandra2unosql`: Project containing the inference process for Cassandra.
