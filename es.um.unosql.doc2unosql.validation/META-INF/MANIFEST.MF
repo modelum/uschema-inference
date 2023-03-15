@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: Validation
-Bundle-SymbolicName: es.um.unosql.doc2unosql.validation
-Bundle-Version: 1.0.0.qualifier
-Require-Bundle: es.um.unosql,
-  es.um.unosql.utils
-Bundle-RequiredExecutionEnvironment: JavaSE-11
-Automatic-Module-Name: es.um.unosql.doc2unosql.validation

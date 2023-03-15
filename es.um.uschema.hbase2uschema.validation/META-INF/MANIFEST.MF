@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Validation
+Bundle-SymbolicName: es.um.uschema.hbase2uschema.validation
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: es.um.uschema;bundle-version="1.0.0",
+ es.um.uschema.utils;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: es.um.uschema.hbase2uschema.validation

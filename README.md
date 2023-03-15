@@ -11,9 +11,9 @@ $ git clone https://github.com/modelum/uschema-inference
 
 The repository contains the following projects:
 
-* `es.um.unosql.cassandra2unosql`: Project containing the inference process for Cassandra.
-* `es.um.unosql.mongodb2unosql`, `es.um.unosql.mongodb2unosql.spark`, `es.um.unosql.doc2unosql` and `es.um.unosql.doc2unosql.validation`: Projects containing the inference process for MongoDB and a validation process to assure the inference correctness.
-* `es.um.unosql.hbase2unosql` and `es.um.unosql.hbase2unosql.validation`: Projects containing the inference process for HBase and a validation process to assure the inference correctness.
-* `es.um.unosql.neo4j2unosql` and `es.um.unosql.neo4j2unosql.validation`: Projects containing the inference process for Neo4j and a validation process to assure the inference correctness.
-* `es.um.unosql.redis2unosql` and `es.um.unosql.redis2unosql.validation`: Projects containing the inference process for Redis and a validation process to assure the inference correctness.
-* `es.um.unosql.sql2unosql `: Project containing the inference process for MySQL.
+* `es.um.uschema.cassandra2uschema`: Project containing the inference process for Cassandra.
+* `es.um.uschema.mongodb2uschema`, `es.um.uschema.mongodb2uschema.spark`, `es.um.uschema.doc2uschema` and `es.um.uschema.doc2uschema.validation`: Projects containing the inference process for MongoDB and a validation process to assure the inference correctness.
+* `es.um.uschema.hbase2uschema` and `es.um.uschema.hbase2uschema.validation`: Projects containing the inference process for HBase and a validation process to assure the inference correctness.
+* `es.um.uschema.neo4j2uschema` and `es.um.uschema.neo4j2uschema.validation`: Projects containing the inference process for Neo4j and a validation process to assure the inference correctness.
+* `es.um.uschema.redis2uschema` and `es.um.uschema.redis2uschema.validation`: Projects containing the inference process for Redis and a validation process to assure the inference correctness.
+* `es.um.uschema.sql2uschema`: Project containing the inference process for MySQL.

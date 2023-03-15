@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hbase2Uschema
+Bundle-SymbolicName: es.um.uschema.hbase2uschema
+Bundle-Version: 1.0.0.qualifier
+Export-Package: es.um.uschema.hbase2uschema.main
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: es.um.uschema.s13e.hbase2uschema
+Require-Bundle: es.um.uschema;bundle-version="1.0.0",
+ es.um.uschema.utils;bundle-version="1.0.0"

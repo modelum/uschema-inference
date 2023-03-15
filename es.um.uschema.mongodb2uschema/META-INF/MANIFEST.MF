@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mongodb2USchema
+Bundle-SymbolicName: es.um.uschema.mongodb2uschema
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: es.um.uschema.mongodb2uschema
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Require-Bundle: org.eclipse.emf.ecore;bundle-version="2.19.0",
+ org.eclipse.emf.ecore.xmi;bundle-version="2.16.0",
+ es.um.uschema;bundle-version="1.0.0",
+ es.um.uschema.doc2uschema;bundle-version="1.0.0",
+ es.um.uschema.utils;bundle-version="1.0.0"

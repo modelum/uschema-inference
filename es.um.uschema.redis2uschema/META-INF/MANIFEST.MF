@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Redis2USchema
+Bundle-SymbolicName: es.um.uschema.redis2uschema
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: es.um.uschema.s13e.redis2uschema
+Require-Bundle: es.um.uschema;bundle-version="1.0.0",
+ es.um.uschema.utils;bundle-version="1.0.0"

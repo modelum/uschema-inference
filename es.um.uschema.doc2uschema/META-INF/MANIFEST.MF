@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: doc2uschema
+Bundle-SymbolicName: es.um.uschema.doc2uschema
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Require-Bundle: org.eclipse.emf.ecore.xmi,
+ es.um.uschema;bundle-version="1.0.0",
+ es.um.uschema.utils;bundle-version="1.0.0"
+Automatic-Module-Name: es.um.uschema.doc2uschema
+Export-Package: es.um.uschema.doc2uschema.main,
+ es.um.uschema.doc2uschema.process,
+ es.um.uschema.doc2uschema.process.util,
+ es.um.uschema.doc2uschema.util.abstractjson,
+ es.um.uschema.doc2uschema.util.abstractjson.except,
+ es.um.uschema.doc2uschema.util.abstractjson.impl.jackson,
+ es.um.uschema.doc2uschema.util.config
