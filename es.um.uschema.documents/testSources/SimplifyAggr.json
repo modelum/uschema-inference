@@ -1,0 +1,89 @@
+{
+  "persons": [
+    {
+      "id": "b76aa13a",
+      "name": "Name1",
+      "other_names": [
+        {
+          "name": "Kerstin-Maria Stalín",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "id": "b76aa13a-b2fd",
+      "name": "Name2",
+      "other_names": [
+        {
+          "name": "Kerstin-Maria Stalín",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "b76aa13a-b2fd-4e5f",
+      "name": "Name3",
+      "other_names": [
+        {
+          "name": "Kerstin-Maria Stalín",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "b76aa13a-b2fd-4e5f-8497-4c9a653d8d5f",
+      "name": "Name4",
+      "other_names": [
+        {
+          "name": "Kerstin-Maria Stalín",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kerstin-Maria Stalín",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ]
+}
