@@ -17,3 +17,5 @@ The repository contains the following projects:
 * `es.um.uschema.neo4j2uschema` and `es.um.uschema.neo4j2uschema.validation`: Projects containing the inference process for Neo4j and a validation process to assure the inference correctness.
 * `es.um.uschema.redis2uschema` and `es.um.uschema.redis2uschema.validation`: Projects containing the inference process for Redis and a validation process to assure the inference correctness.
 * `es.um.uschema.sql2uschema`: Project containing the inference process for MySQL.
+
+**A more detailed description about the inference processes can be found in the open-access paper: [A unified metamodel for NoSQL and relational databases](https://www.sciencedirect.com/science/article/pii/S0306437921001149).**
