@@ -18,4 +18,7 @@ The repository contains the following projects:
 * `es.um.uschema.redis2uschema` and `es.um.uschema.redis2uschema.validation`: Projects containing the inference process for Redis and a validation process to assure the inference correctness.
 * `es.um.uschema.sql2uschema`: Project containing the inference process for MySQL.
 
-**A more detailed description about the inference processes can be found in the open-access paper: [A unified metamodel for NoSQL and relational databases](https://www.sciencedirect.com/science/article/pii/S0306437921001149).**
+
+List of related publications:
+
+* Carlos Javier Fernández Candel, Diego Sevilla Ruiz, Jesús García Molina, [A unified metamodel for NoSQL and relational databases](https://www.sciencedirect.com/science/article/pii/S0306437921001149). Information Systems 104: 101898.
